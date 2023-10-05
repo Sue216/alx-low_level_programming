@@ -7,7 +7,6 @@
  * @s1: allocated space in memory
  * @s2: allocated space in memory
  * @n: bytes
- * Description: n is greater or equal to the length of s2 then use the entire string s2
  * Return: 0 when successful,
  * or NULL otherwise
  */
